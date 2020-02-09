@@ -19,7 +19,6 @@ new_list = unicodestr.get("data").get("listByArea")  #获取data中的内容，�
 
 j = 0
 print("###############"
-      " 版权所有：殷宗敏   &"
       "&   数据来源：丁香医生 "
       "###############")
 while j < len(new_list):
